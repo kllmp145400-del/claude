@@ -1,0 +1,23 @@
+{
+  "extraKnownMarketplaces": {
+    "impeccable": {
+      "source": { "source": "github", "repo": "pbakaus/impeccable" }
+    },
+    "claudex-loop": {
+      "source": { "source": "github", "repo": "chaseai-yt/claudex-loop" }
+    },
+    "hyperframes": {
+      "source": { "source": "github", "repo": "heygen-com/hyperframes" }
+    },
+    "last30days-skill": {
+      "source": { "source": "github", "repo": "mvanhorn/last30days-skill" }
+    }
+  },
+  "enabledPlugins": {
+    "impeccable@impeccable": true,
+    "claudex-loop@claudex-loop": true,
+    "hyperframes@hyperframes": true,
+    "last30days@last30days-skill": true
+  },
+  "enableAllProjectMcpServers": true
+}
